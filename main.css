@@ -1,0 +1,12 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+button{
+    background: lightseagreen;
+    border: 1px solid lightblue;
+    color: whitesmoke;
+    padding: 2px;
+
+}
