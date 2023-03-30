@@ -8,11 +8,10 @@ button{
     border: 1px solid lightblue;
     color: whitesmoke;
     padding: 2px;
+    font-size:100px;
 
 }
 h1{
- font-size:48px;   
+ font-size:100px;   
 }
-button{ 
-    font-size:48px;
-}
+
